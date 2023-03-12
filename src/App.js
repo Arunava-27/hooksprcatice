@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar";
 import TextField from "./components/TextField";
+import UsestateWithArray from "./components/UsestateWithArray";
 
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <>
       <Navbar/>
       <TextField/>
+      <UsestateWithArray/>
     </>
   );
 }

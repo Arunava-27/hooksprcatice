@@ -15,7 +15,7 @@ function TextField() {
     setCount(prevCount => prevCount-1)
   }
   const incrementbyFive = () => {
-    for (let i = 0; i < 6; i++) {
+    for (let i = 0; i < 5; i++) {
         setCount(prevCount => prevCount+1)        
     }
   }
